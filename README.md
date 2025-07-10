@@ -1,13 +1,13 @@
 # my-shelf
 test, and first challenge.
 
-#Hello.
+#Hello.  
 I'm Japanese Github learners.
 
-##skill
--Python
--C++
--SQL
+##skill  
+-Python  
+-C++  
+-SQL  
 
-##objective
+##objective  
 I want to acquire a Github skill to make my life better.
